@@ -5,3 +5,5 @@ Bu çalışma Yapay Zekaya Giriş dersi kapsamında gerçekleştirilen projeyi i
 Çalışmaya yönelik ayrıntılar notebook içerisinde ve rapora yer almaktadır.
 Ayrıca kullanılan veri kümeleri çalışmaya dahil edilmiştir.
 
+PY uzantılı Flask API yapısı eklenen versiyon repoya eklenmiştir. Bu versiyon hosting üzerinde deploy edilerek API servisi canlıya alınmıştır.
+
